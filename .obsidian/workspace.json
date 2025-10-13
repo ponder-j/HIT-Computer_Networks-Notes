@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "right": {
     "id": "efc72ccbdd872390",
@@ -171,9 +171,15 @@
   },
   "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
+    "第四章 网络层/attachments/Pasted image 20251013085846.png",
+    "第四章 网络层/4.3 路由器体系结构.md",
+    "第四章 网络层/attachments/Pasted image 20251013085831.png",
+    "第四章 网络层/attachments",
+    "attachments",
+    "Pasted image 20251013083909.png",
+    "auto_commit.sh",
     "README.md",
     "第四章 网络层/4.2 虚电路vs数据报网络.md",
-    "第四章 网络层/4.3 路由器体系结构.md",
     "第四章 网络层/4.1 网络层服务.md",
     "第四章 网络层.md",
     "第四章 网络层"
