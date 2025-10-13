@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第四章 网络层/4.3 路由器体系结构.md",
+                "file": "第四章 网络层/4.4 IP 协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 路由器体系结构"
+              "title": "4.4 IP 协议"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第四章 网络层/4.3 路由器体系结构.md",
+                "file": "第四章 网络层/4.4 IP 协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4.3 路由器体系结构 的反向链接列表"
+              "title": "4.4 IP 协议 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第四章 网络层/4.3 路由器体系结构.md",
+                "file": "第四章 网络层/4.4 IP 协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "4.3 路由器体系结构 的出链列表"
+              "title": "4.4 IP 协议 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第四章 网络层/4.3 路由器体系结构.md",
+                "file": "第四章 网络层/4.4 IP 协议.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.3 路由器体系结构 的大纲"
+              "title": "4.4 IP 协议 的大纲"
             }
           }
         ]
@@ -171,8 +171,20 @@
   },
   "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
-    "第四章 网络层/attachments/Pasted image 20251013085846.png",
+    "未命名.md",
+    "第四章 网络层/4.4 IP 协议.md",
+    "未命名.base",
+    "第四章 网络层/attachments/Pasted image 20251013093158.png",
+    "第四章 网络层/attachments/Pasted image 20251013092912.png",
+    "第四章 网络层/attachments/Pasted image 20251013092827.png",
+    "第四章 网络层/attachments/Pasted image 20251013092513.png",
+    "第四章 网络层/attachments/Pasted image 20251013092113.png",
     "第四章 网络层/4.3 路由器体系结构.md",
+    "第四章 网络层/attachments/Pasted image 20251013091539.png",
+    "第四章 网络层/attachments/Pasted image 20251013091102.png",
+    "auto_commit_error.log",
+    "auto_commit.log",
+    "第四章 网络层/attachments/Pasted image 20251013085846.png",
     "第四章 网络层/attachments/Pasted image 20251013085831.png",
     "第四章 网络层/attachments",
     "attachments",
