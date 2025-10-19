@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第四章 网络层/4.4 IP 协议.md",
+                "file": "第四章 网络层/4.1 网络层服务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 IP 协议"
+              "title": "4.1 网络层服务"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -160,24 +160,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
     }
   },
   "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
+    "ppts/Chapter5-Data Link Layer LAN.pdf",
+    "ppts/Chapter4-Network Layer.pdf",
+    "ppts/Chapter2-Application Layer.pdf",
+    "ppts/Chapter0-Overview - 聂.pptx",
+    "ppts/Chapter3-Transport Layer.pdf",
+    "ppts/Chapter1-Introduction.pdf",
+    "ppts/Chapter6-Physical Layer.pdf",
+    "ppts",
+    "新建文件夹",
+    "第四章 网络层/4.4 IP 协议.md",
+    "第四章 网络层/4.3 路由器体系结构.md",
+    "第四章 网络层/4.2 虚电路vs数据报网络.md",
+    "第四章 网络层/4.1 网络层服务.md",
     "第四章 网络层/attachments/Pasted image 20251015104247.png",
     "第四章 网络层/attachments/Pasted image 20251015103012.png",
     "第四章 网络层/attachments/Pasted image 20251015102930.png",
     "第四章 网络层/attachments/Pasted image 20251015101533.png",
     "README.md",
     "第三章 传输层",
-    "第四章 网络层/4.4 IP 协议.md",
     "未命名.md",
     "未命名.base",
     "第四章 网络层/attachments/Pasted image 20251013093158.png",
@@ -185,17 +197,7 @@
     "第四章 网络层/attachments/Pasted image 20251013092827.png",
     "第四章 网络层/attachments/Pasted image 20251013092513.png",
     "第四章 网络层/attachments/Pasted image 20251013092113.png",
-    "第四章 网络层/4.3 路由器体系结构.md",
     "第四章 网络层/attachments/Pasted image 20251013091539.png",
-    "第四章 网络层/attachments/Pasted image 20251013091102.png",
-    "auto_commit_error.log",
-    "auto_commit.log",
-    "第四章 网络层/attachments",
-    "attachments",
-    "auto_commit.sh",
-    "第四章 网络层/4.2 虚电路vs数据报网络.md",
-    "第四章 网络层/4.1 网络层服务.md",
-    "第四章 网络层.md",
-    "第四章 网络层"
+    "第四章 网络层.md"
   ]
 }
