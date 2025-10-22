@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第四章 网络层/4.6 路由算法.md",
+                "file": "第四章 网络层/4.7 路由协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.6 路由算法"
+              "title": "4.7 路由协议"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
+    "第四章 网络层/4.6 路由算法.md",
+    "第四章 网络层/4.7 路由协议.md",
     "第四章 网络层/attachments/Pasted image 20251020094322.png",
     "第四章 网络层/attachments/Pasted image 20251020093500.png",
     "第四章 网络层/attachments/Pasted image 20251020093352.png",
@@ -178,7 +180,6 @@
     "第四章 网络层/attachments/Pasted image 20251020090213.png",
     "第四章 网络层/attachments/Pasted image 20251020090017.png",
     "第四章 网络层/4.5 IP 相关协议.md",
-    "第四章 网络层/4.6 路由算法.md",
     "第四章 网络层/attachments/Pasted image 20251020082947.png",
     "第四章 网络层/attachments/Pasted image 20251020082339.png",
     "第四章 网络层/attachments/Pasted image 20251020081034.png",
@@ -186,7 +187,6 @@
     "第四章 网络层/4.4 IP 协议.md",
     "第四章 网络层/4.1 网络层服务.md",
     "第四章 网络层/attachments/Pasted image 20251013092912.png",
-    "第四章 网络层/attachments/Pasted image 20251020075730.png",
     "第四章 网络层/4.3 路由器体系结构.md",
     "第四章 网络层/4.2 虚电路vs数据报网络.md",
     "ppts/Chapter5-Data Link Layer LAN.pdf",
