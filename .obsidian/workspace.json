@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第四章 网络层/4.7 路由协议.md",
+                "file": "第五章 数据链路层与局域网/5.3 多路访问控制协议.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.7 路由协议"
+              "title": "5.3 多路访问控制协议"
             }
           }
         ]
@@ -171,21 +171,25 @@
   },
   "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
+    "第五章 数据链路层与局域网/5.2 差错检测与纠正.md",
+    "第五章 数据链路层与局域网/5.3 多路访问控制协议.md",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251029103625.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251029102825.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251029102804.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251029102655.png",
+    "第五章 数据链路层与局域网/attachments",
+    "第五章 数据链路层与局域网/5.1 数据链路层服务.md",
+    "第四章 网络层/4.7 路由协议.md",
+    "第五章 数据链路层与局域网",
     "第四章 网络层/attachments/Pasted image 20251027080752.png",
     "第四章 网络层/attachments/Pasted image 20251027080618.png",
     "第四章 网络层/attachments/Pasted image 20251022113326.png",
     "ppts/Chapter4-Network Layer.pdf.sb-034c96d4-MWNwqv",
     "第四章 网络层/4.6 路由算法.md",
-    "第四章 网络层/4.7 路由协议.md",
     "第四章 网络层/attachments/Pasted image 20251020094322.png",
     "第四章 网络层/attachments/Pasted image 20251020093500.png",
     "第四章 网络层/attachments/Pasted image 20251020093352.png",
-    "第四章 网络层/attachments/Pasted image 20251020091343.png",
-    "第四章 网络层/attachments/Pasted image 20251020090213.png",
-    "第四章 网络层/attachments/Pasted image 20251020090017.png",
     "第四章 网络层/4.5 IP 相关协议.md",
-    "第四章 网络层/attachments/Pasted image 20251020082947.png",
-    "第四章 网络层/attachments/Pasted image 20251020082339.png",
     "Untitled.md",
     "第四章 网络层/4.4 IP 协议.md",
     "第四章 网络层/4.1 网络层服务.md",
@@ -198,8 +202,6 @@
     "ppts/Chapter3-Transport Layer.pdf",
     "ppts/Chapter1-Introduction.pdf",
     "ppts/Chapter6-Physical Layer.pdf",
-    "ppts",
-    "新建文件夹",
     "README.md",
     "未命名.md",
     "第四章 网络层.md"
