@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第五章 数据链路层与局域网/5.5 局域网技术.md",
+                "file": "第五章 数据链路层与局域网/5.7 链路虚拟化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.5 局域网技术"
+              "title": "5.7 链路虚拟化"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第五章 数据链路层与局域网/5.5 局域网技术.md",
+                "file": "第五章 数据链路层与局域网/5.7 链路虚拟化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5.5 局域网技术"
+              "title": "Backlinks for 5.7 链路虚拟化"
             }
           },
           {
@@ -171,22 +171,23 @@
   },
   "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251103085056.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251103084659.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251103084631.png",
-    "第五章 数据链路层与局域网/5.4 ARP协议.md",
+    "第五章 数据链路层与局域网/5.6 PPP协议.md",
+    "第五章 数据链路层与局域网/5.7 链路虚拟化.md",
     "第五章 数据链路层与局域网/5.5 局域网技术.md",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103093445.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103093004.png",
+    "第五章 数据链路层与局域网/attachments/2025-11-03_09-27-06.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103092326.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103091625.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103091423.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103091355.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103091307.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103091247.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103085056.png",
+    "第五章 数据链路层与局域网/5.4 ARP协议.md",
     "第五章 数据链路层与局域网/5.3 多路访问控制协议.md",
     "kk.md",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029113425.png",
-    "第五章 数据链路层与局域网/attachments/bbb32303f3b76f2190c365bf357ec7c8_720.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029113347.png",
     "第五章 数据链路层与局域网/attachments/IMG_9027.heic",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029111113.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029110852.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029110602.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029110308.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029110206.png",
     "第五章 数据链路层与局域网/5.2 差错检测与纠正.md",
     "第五章 数据链路层与局域网/attachments",
     "第五章 数据链路层与局域网/5.1 数据链路层服务.md",
