@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第五章 数据链路层与局域网/5.3 多路访问控制协议.md",
+                "file": "第五章 数据链路层与局域网/5.5 局域网技术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 多路访问控制协议"
+              "title": "5.5 局域网技术"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第四章 网络层/4.4 IP 协议.md",
+                "file": "第五章 数据链路层与局域网/5.5 局域网技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4.4 IP 协议 的反向链接列表"
+              "title": "Backlinks for 5.5 局域网技术"
             }
           },
           {
@@ -169,8 +169,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9670883455697d6c",
+  "active": "ddbacc63a96880cd",
   "lastOpenFiles": [
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103085056.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103084659.png",
+    "第五章 数据链路层与局域网/attachments/Pasted image 20251103084631.png",
+    "第五章 数据链路层与局域网/5.4 ARP协议.md",
+    "第五章 数据链路层与局域网/5.5 局域网技术.md",
     "第五章 数据链路层与局域网/5.3 多路访问控制协议.md",
     "kk.md",
     "第五章 数据链路层与局域网/attachments/Pasted image 20251029113425.png",
@@ -182,8 +187,6 @@
     "第五章 数据链路层与局域网/attachments/Pasted image 20251029110602.png",
     "第五章 数据链路层与局域网/attachments/Pasted image 20251029110308.png",
     "第五章 数据链路层与局域网/attachments/Pasted image 20251029110206.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029110143.png",
-    "第五章 数据链路层与局域网/attachments/Pasted image 20251029110110.png",
     "第五章 数据链路层与局域网/5.2 差错检测与纠正.md",
     "第五章 数据链路层与局域网/attachments",
     "第五章 数据链路层与局域网/5.1 数据链路层服务.md",
